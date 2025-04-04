@@ -14,7 +14,7 @@ pipeline{
     stages {
         stage('Checkout') {
             steps {
-                git url: "https://github.com/AakashR3/Resourcegroup.git", branch: "main"
+                git url: "https://github.com/Mahendra329015/resourcegrp.git", branch: "main"
             }
         }    
         stage('Terraform Init'){
