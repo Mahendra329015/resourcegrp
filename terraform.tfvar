@@ -1,0 +1,5 @@
+Resource_group_name ="mahendratest"
+client_id = "d0be50a0-d1a1-4067-8d39-c6ac077eb1e1"
+client_secret = "00e12762-5418-46dc-88ae-39f00a50159d"
+subscription_id = "081bccc6-f68f-49ba-bb19-a84f21dcc2ce"
+tenant_id = "323d93ac-df8f-41fa-934c-fba54b80e5cc"
